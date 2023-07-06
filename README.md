@@ -25,6 +25,6 @@
 [![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=java&logoColor=white)]()
 
 ##
-###LIBS
+### Libraries
 
 [![Gurobi](https://img.shields.io/badge/-Gurobi-56AA3A?style=flat-square&logo=gurobi&logoColor=white)]()
