@@ -6,11 +6,7 @@
 
 <br>
 
-- 🔭 I am a undergraduate student in Industrial Mathematics at the Federal University of Ceará, with a focus on Operations Research. I am passionate about data structures and love solving problems using programming. Most of my experience revolves around projects in Python using Gurobi and Pandas, as well as some projects in C++.  
-
-<br>
-
-- ⚡ 2023: I'm currently Estudying about Heuristic Random Walk methods and models for simplifying equivalent linear systems (LU Decomposition and LDP).
+- ⚡  I am a undergraduate student in Industrial Mathematics at the Federal University of Ceará, with a focus on Operations Research. I am passionate about data structures and love solving problems using programming. Most of my experience revolves around projects in Python using Gurobi and Pandas, as well as some projects in C++.  
 
 <br>
 
