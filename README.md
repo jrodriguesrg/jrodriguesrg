@@ -27,4 +27,6 @@
 ##
 ### Libraries
 
+[![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)]()
+[![numpy](https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=white)]()
 [![Gurobi](https://img.shields.io/badge/-Gurobi-56AA3A?style=flat-square&logo=gurobi&logoColor=white)]()
