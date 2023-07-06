@@ -8,12 +8,13 @@
 
 
 
-- ⚡ I'm currently Estudying about Heuristic Random Walk methods and models for simplifying equivalent linear systems (LU Decomposition and LDP).
+- ⚡ 2023: I'm currently Estudying about Heuristic Random Walk methods and models for simplifying equivalent linear systems (LU Decomposition and LDP).
 
 
 
 - 📫 email : jrodriguesrg@gmail.com 
 
+\n
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/seu_usuario/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jrodriguesrg)
 
